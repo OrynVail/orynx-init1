@@ -1,8 +1,6 @@
 <div align="center">
 <h1>{orynx-init1}<h1/>
-
-*"Builder of thoughts, breaker of patterns.*  
-*This is just a terminal window into the void._"*  
+  
 
  [![Netlify Status](https://api.netlify.com/api/v1/badges/bf300bb7-68f1-47e1-87ef-c3dfbccc965d/deploy-status)](https://app.netlify.com/projects/init1/deploys)
 ![Svelte](https://img.shields.io/badge/built%20with-svelte-orange)
