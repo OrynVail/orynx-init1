@@ -13,7 +13,7 @@
           <div class="w-60 h-60 bg-[#E86C3F] opacity-25 rounded-full blur-3xl z-0"></div>
         </div>
         <!-- Avatar image -->
-        <div class="w-60 h-60 rounded-full bg-gradient-to-br from-orange-500 to-red-600 p-1 shadow-2xl z-10">
+        <div class="w-60 h-60>
           <img
             src="/img.png"
             alt="Profile"
