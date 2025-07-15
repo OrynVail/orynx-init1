@@ -7,15 +7,15 @@
     <!-- Main content -->
     <div class="flex flex-col lg:flex-row items-center justify-center gap-8 lg:gap-20 max-w-6xl mx-auto">
       <!-- Avatar -->
-      <div class="relative w-60 h-60 flex items-center justify-center">
+      <div class="relative w-50 h-50 flex items-center justify-center">
         <!-- Glow/blur behind the image -->
         <div class="absolute inset-0 flex items-center justify-center">
-          <div class="w-60 h-60 bg-[#E86C3F] opacity-25 rounded-full blur-3xl z-0"></div>
+          <div class="w-50 h-50 bg-[#E86C3F] opacity-25 rounded-full blur-3xl z-0"></div>
         </div>
         <!-- Avatar image -->
-        <div class="w-60 h-60">
+        <div class="w-50 h-50">
           <img
-            src="/img.png"
+            src="/img.webp"
             alt="Profile"
             class="w-full h-full rounded-full object-cover shadow-lg"
           />
